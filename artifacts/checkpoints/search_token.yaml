@@ -1,0 +1,9 @@
+default:
+  deployInfo:
+    codeId: 578
+    contractCodeHash: not_required
+    deployTimestamp: Thu Apr 20 2023 13:24:54 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: default_instantiate
+      contractAddress: archway1xetfdfcrf7pn5sd6uy5ll09hkjm6llmn26sh2csd66hvn25eqdwqtegdqj
+      instantiateTimestamp: Thu Apr 20 2023 13:24:55 GMT+0530 (India Standard Time)
