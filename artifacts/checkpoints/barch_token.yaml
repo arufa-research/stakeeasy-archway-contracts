@@ -7,3 +7,12 @@ default:
     - instantiateTag: default_instantiate
       contractAddress: archway1wlsjgcxxarwz0hz7lgrkazz07zcx33nf7e8tsvn09e2gqfn7vvlsd84f7e
       instantiateTimestamp: Thu Apr 20 2023 13:25:15 GMT+0530 (India Standard Time)
+mainnet:
+  deployInfo:
+    codeId: 56
+    contractCodeHash: not_required
+    deployTimestamp: Thu Jul 06 2023 09:59:56 GMT+0530 (India Standard Time)
+  instantiateInfo:
+    - instantiateTag: default_instantiate
+      contractAddress: archway17k0zydf5yuhh3lmxva4pgc87yz7mtfj2kse6p02leu7cx9ky4xfs4qk7v4
+      instantiateTimestamp: Thu Jul 06 2023 23:24:34 GMT+0530 (India Standard Time)
